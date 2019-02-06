@@ -44,7 +44,7 @@ $('#update').on('click', function(){
     $('#display').empty();
     $('#display').append(`
         <div class="inputForm">
-        <label for="name">Update/Change Information by Name</label>
+        <label for="name">Update/Change Information by Name. Who would you like to change?</label>
         <input id="name" placeholder="name"/>
         <input id="officeNum" placeholder="office number"/>
         <input id="phoneNum" placeholder="phone number"/>
